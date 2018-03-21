@@ -16,7 +16,6 @@ The motivation for this repository is to keep a reference to a pattern for defin
  - The Switch component provided by React Router gets wrapped around the Routes so that we can render the ErrorMessage component to be rendered whenever a user navigates to a route that does isn't defined in routes file.
 
  # Credits
-  Constants for routes and the Navigation component - taken from The Road to React with Firebase by Robin Wieruch.
-  Below are some articles that I read and took information from to create this project structure.
-  Handling 404 pages in react router - https://tylermcginnis.com/react-router-handling-404-pages/
-  Programmatically Navigate with React Router - https://tylermcginnis.com/react-router-programmatically-navigate/
+  - Constants for routes and the Navigation component - taken from The Road to React with Firebase by Robin Wieruch.
+  - Handling 404 pages in react router - https://tylermcginnis.com/react-router-handling-404-pages/
+  - Programmatically Navigate with React Router - https://tylermcginnis.com/react-router-programmatically-navigate/
